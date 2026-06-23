@@ -22,7 +22,7 @@ I'm a **Data Analyst** based in Barcelona, currently pursuing a **Master's in Ar
 ### 🔬 Research & Academic
 | Repository | Description | Stack |
 |---|---|---|
-| [embedding-diversity-metrics](https://github.com/matowastaken/embedding-diversity-metrics) | TFG — Diversity metrics on deep learning embeddings (MNIST, CIFAR-100, Fashion-MNIST) | Python, PyTorch |
+| [embedding-diversity-metrics](https://github.com/matowastaken/embedding-diversity-metrics) | TFG — Diversity metrics on deep learning embeddings (MNIST, CIFAR-100, Fashion-MNIST) | Python, TensorFlow |
 | [housing-price-regularization](https://github.com/matowastaken/housing-price-regularization) | Lasso, Ridge & PCA regression on Ames Housing dataset | R, tidymodels, glmnet |
 | [employee-attrition-classification](https://github.com/matowastaken/employee-attrition-classification) | kNN classification with SMOTE on IBM HR attrition data | R, tidymodels, themis |
 | [pregnancy-data-analysis](https://github.com/matowastaken/pregnancy-data-analysis) | Clinical data analysis and reporting for a hospital dataset | R, Quarto, gtsummary |
