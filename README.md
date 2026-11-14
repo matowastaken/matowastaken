@@ -42,7 +42,7 @@ I'm a **Data Analyst** based in Barcelona, currently pursuing a **Master's in Ar
 
 ## 🎓 Education
 
-- **Master's in Artificial Intelligence** — Universidad Alfonso X el Sabio *(April 2026 – December 2026)*
+- **Master's in Artificial Intelligence** — Universidad Alfonso X el Sabio *(April 2026 – November 2026)*
 - **Mathematics (Computer Engineering track)** — *(Bachelor's)*
 
 ---
