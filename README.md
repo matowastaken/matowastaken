@@ -1,6 +1,8 @@
 # Hi, I'm Pablo Prol Prieto 👋
 
-I'm a **Data Analyst** based in Barcelona, currently pursuing a **Master's in Artificial Intelligence** at Universidad Alfonso X el Sabio. My academic background is in Mathematics with a specialization in Computer Engineering, and I'm actively working at the intersection of machine learning, deep learning, and data engineering.
+I'm a mathematician and AI & data professional based in Barcelona, with an MSc in Artificial Intelligence from Universidad Alfonso X el Sabio and a background in Mathematics with a specialization in Computer Engineering.
+
+I've worked as a Data Analyst, building Python pipelines and analyses that automate manual processes, and as an AI Intern at Allianz Technology, where I used agentic tools like Claude Code day to day. I work at the intersection of machine learning, deep learning and data engineering.
 
 ---
 
